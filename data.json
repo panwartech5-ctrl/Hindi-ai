@@ -1,0 +1,20 @@
+[
+  {
+    "slug": "notion-ai",
+    "title": "Notion AI",
+    "description": "AI लेखन और प्रोडक्टिविटी टूल",
+    "image": "https://example.com/notion.jpg",
+    "link": "https://notion.so",
+    "tags": ["लेखन", "उत्पादकता"],
+    "date": "2025-09-04"
+  },
+  {
+    "slug": "copygenius",
+    "title": "CopyGenius",
+    "description": "मार्केटिंग के लिए AI कॉपीराइटिंग असिस्टेंट",
+    "image": "https://example.com/copygenius.jpg",
+    "link": "https://copygenius.io",
+    "tags": ["कॉपीराइटिंग", "मार्केटिंग"],
+    "date": "2025-09-01"
+  }
+]
